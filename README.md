@@ -1,4 +1,4 @@
-<h1 align="centre">©️ KINGBOT Music Bot 🎶</h1>
+<h1 align="centre">©️ RAJPUTBOT Music Bot 🎶</h1>
 
 ## Requirements 📝
 
