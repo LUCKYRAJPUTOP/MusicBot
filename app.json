@@ -27,8 +27,8 @@
         "value": ""
       },
       "BOT_NAME": {
-        "description": "Your Bot Name. By default it is KINGBOT",
-        "value": "KINGBOT"
+        "description": "Your Bot Name. By default it is RAJPUTMUSICBOT",
+        "value": "RAJPUTMUSICBOT"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
